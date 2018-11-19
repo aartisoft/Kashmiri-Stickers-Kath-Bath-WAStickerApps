@@ -1,0 +1,57 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Kath Bath Stickers",
+      "publisher": "Ghazal Qadri aka Alif",
+      "tray_image_file": "kathbath.png",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://ghazalqadri.myportfolio.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "AaazChuHartal.webp"
+        },
+        {
+          "image_file": "GaukaiManiHaqui.webp"
+        },
+        {
+          "image_file": "GowPower.webp"
+        },
+        {
+          "image_file": "HaatiWaai.webp"
+        },
+        {
+          "image_file": "KaashaKari.webp"
+        },
+        {
+          "image_file": "KarTshop.webp"
+        },
+        {
+          "image_file": "Kshok.webp"
+        },
+        {
+          "image_file": "MaazeBaalie.webp"
+        },
+        {
+          "image_file": "ShrifKarhakDarbadri.webp"
+        },
+        {
+          "image_file": "Shukriya.webp"
+        },
+        {
+          "image_file": "Shukriya2.webp"
+        },
+        {
+          "image_file": "TseMaCheeuiKeena.webp"
+        },
+        {
+          "image_file": "WaariKoshpeethe.webp"
+        }
+      ]
+    }
+  ]
+}

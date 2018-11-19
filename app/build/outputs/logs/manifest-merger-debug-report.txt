@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+provider#com.example.samplestickerapp.StickerContentProvider
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:42:9-47:66
+	android:readPermission
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:47:13-63
+	android:enabled
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:45:13-35
+	android:authorities
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:44:13-62
+	android:exported
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:43:13-51
+manifest
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\fcfd94466abfcd0a1b71febd783a726e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\045da1c638cacc8f6bab249f952b8552\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\6f5c41b0aae02bcfb29da54618b9f535\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\35d3d8e99556e10835fe9097ac051362\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\67872bd83ddcdae45962b80454ae5485\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dc3d9004c92cfb775a70788019f1386f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5ee8846d2f7945c381575e16adb9f6ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cd34f2948eb8724c2539c3d931c4fafe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\30bad7787c8c9f161b5c533b6f9ef5c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42bdd3a3ca99077c8968e204a44da817\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\20c18eea098f4106dddf7402d905ef8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dc204719f24a81e893200d0093a70cf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e2e789c9f9e4f9f1b55d22bfe411e6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5648f0a7add92103e36d6da6a39167ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e4b328cf70ebe6e79d3249dd04da8458\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\309d50db9337bb2f8c684305fc8488d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\220f16a507d62b606f7a28105e505d97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8298d0043b13cf98810bb905f7261a65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\24297cc7a48868dd122f6c319f5d00f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39aac0df24dbfcecd1e84999a8aaa1b8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54bf6072360d6004706877cea7120a85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5cef3226f85f52a03e6dc67dd62bcc0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44bf04bc1b11d00ce5c7389c417d2a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f37b4e353a3a7829aa10d8b40ae602be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e72c7e345c470f2ffa7c1376fe822da0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200c9de935b6fd1b2bee866d982beb78\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\902ac688721920d0b91081108099c70e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ae248e775b67b0b9ebfc2cb295eb6a66\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\770a94a90a7d2b4905af6926a797547c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0b0041ab1c0f04bae40d79e467bbc7df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b32ef34a40e6b1f7e8701b6a24887555\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\81a511a2e089d51881f84cd39fac14fe\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\d5447c7a8d9002877d411b7d0a387026\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d27b16397fb96ff05634889d0649a4e4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\8bb28c3cf7f9d789a482d57e12236e1e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5a7ee1ea9c4365b3fb59603f14c5ba9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\cf612106bfd647707821998fcc5dced2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\f536c9a7003d87c36d644e832c0caf94\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:6:5-48:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\045da1c638cacc8f6bab249f952b8552\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\045da1c638cacc8f6bab249f952b8552\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39aac0df24dbfcecd1e84999a8aaa1b8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39aac0df24dbfcecd1e84999a8aaa1b8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\f536c9a7003d87c36d644e832c0caf94\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\f536c9a7003d87c36d644e832c0caf94\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:8:9-42
+	tools:ignore
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.samplestickerapp.EntryActivity
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.samplestickerapp.StickerPackListActivity
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:21:9-23:73
+	android:label
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:23:13-70
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:22:13-52
+activity#com.example.samplestickerapp.StickerPackDetailsActivity
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:parentActivityName
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:26:13-66
+	tools:ignore
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:25:13-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:28:13-30:88
+	android:value
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:30:17-85
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:29:17-63
+activity#com.example.samplestickerapp.StickerPackInfoActivity
+ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:parentActivityName
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:35:13-69
+	android:label
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:34:13-69
+	tools:ignore
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:36:13-43
+	android:name
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml:33:13-52
+uses-sdk
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\fcfd94466abfcd0a1b71febd783a726e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\fcfd94466abfcd0a1b71febd783a726e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\045da1c638cacc8f6bab249f952b8552\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\045da1c638cacc8f6bab249f952b8552\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\6f5c41b0aae02bcfb29da54618b9f535\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\6f5c41b0aae02bcfb29da54618b9f535\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\35d3d8e99556e10835fe9097ac051362\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-webp-1.10.0.aar\35d3d8e99556e10835fe9097ac051362\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\67872bd83ddcdae45962b80454ae5485\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\webpsupport-1.10.0.aar\67872bd83ddcdae45962b80454ae5485\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dc3d9004c92cfb775a70788019f1386f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dc3d9004c92cfb775a70788019f1386f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5ee8846d2f7945c381575e16adb9f6ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5ee8846d2f7945c381575e16adb9f6ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cd34f2948eb8724c2539c3d931c4fafe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cd34f2948eb8724c2539c3d931c4fafe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\30bad7787c8c9f161b5c533b6f9ef5c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\30bad7787c8c9f161b5c533b6f9ef5c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42bdd3a3ca99077c8968e204a44da817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42bdd3a3ca99077c8968e204a44da817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\20c18eea098f4106dddf7402d905ef8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\20c18eea098f4106dddf7402d905ef8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dc204719f24a81e893200d0093a70cf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\dc204719f24a81e893200d0093a70cf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e2e789c9f9e4f9f1b55d22bfe411e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e2e789c9f9e4f9f1b55d22bfe411e6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5648f0a7add92103e36d6da6a39167ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5648f0a7add92103e36d6da6a39167ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e4b328cf70ebe6e79d3249dd04da8458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e4b328cf70ebe6e79d3249dd04da8458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\309d50db9337bb2f8c684305fc8488d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\309d50db9337bb2f8c684305fc8488d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\220f16a507d62b606f7a28105e505d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\220f16a507d62b606f7a28105e505d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8298d0043b13cf98810bb905f7261a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8298d0043b13cf98810bb905f7261a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\24297cc7a48868dd122f6c319f5d00f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\24297cc7a48868dd122f6c319f5d00f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9e19f2d9908306b0fd65bbfa1c3334f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39aac0df24dbfcecd1e84999a8aaa1b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\39aac0df24dbfcecd1e84999a8aaa1b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54bf6072360d6004706877cea7120a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\54bf6072360d6004706877cea7120a85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5cef3226f85f52a03e6dc67dd62bcc0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\5cef3226f85f52a03e6dc67dd62bcc0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44bf04bc1b11d00ce5c7389c417d2a9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44bf04bc1b11d00ce5c7389c417d2a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f37b4e353a3a7829aa10d8b40ae602be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f37b4e353a3a7829aa10d8b40ae602be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e72c7e345c470f2ffa7c1376fe822da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e72c7e345c470f2ffa7c1376fe822da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200c9de935b6fd1b2bee866d982beb78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\200c9de935b6fd1b2bee866d982beb78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\902ac688721920d0b91081108099c70e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\902ac688721920d0b91081108099c70e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ae248e775b67b0b9ebfc2cb295eb6a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ae248e775b67b0b9ebfc2cb295eb6a66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\770a94a90a7d2b4905af6926a797547c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\770a94a90a7d2b4905af6926a797547c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0b0041ab1c0f04bae40d79e467bbc7df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0b0041ab1c0f04bae40d79e467bbc7df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b32ef34a40e6b1f7e8701b6a24887555\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b32ef34a40e6b1f7e8701b6a24887555\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\81a511a2e089d51881f84cd39fac14fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\81a511a2e089d51881f84cd39fac14fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\d5447c7a8d9002877d411b7d0a387026\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\d5447c7a8d9002877d411b7d0a387026\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d27b16397fb96ff05634889d0649a4e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\d27b16397fb96ff05634889d0649a4e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\8bb28c3cf7f9d789a482d57e12236e1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\8bb28c3cf7f9d789a482d57e12236e1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5a7ee1ea9c4365b3fb59603f14c5ba9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c5a7ee1ea9c4365b3fb59603f14c5ba9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\cf612106bfd647707821998fcc5dced2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\cf612106bfd647707821998fcc5dced2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\f536c9a7003d87c36d644e832c0caf94\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.0] C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\soloader-0.5.0.aar\f536c9a7003d87c36d644e832c0caf94\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\AndroidManifest.xml
