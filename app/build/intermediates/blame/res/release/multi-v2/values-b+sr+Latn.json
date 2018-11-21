@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\romaa\\Desktop\\stickers\\SampleAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "C:\\Users\\romaa\\Desktop\\GazalStickerApp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\romaa\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\a9e19f2d9908306b0fd65bbfa1c3334f\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",

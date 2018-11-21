@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\romaa\\Desktop\\stickers\\SampleAndroid\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\romaa\\Desktop\\GazalStickerApp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\romaa\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\5cef3226f85f52a03e6dc67dd62bcc0e\\res\\values-v23\\values-v23.xml",

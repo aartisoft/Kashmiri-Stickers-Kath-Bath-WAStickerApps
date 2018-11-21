@@ -1,16 +1,16 @@
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:20
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:20
 -keep class com.example.samplestickerapp.EntryActivity { <init>(...); }
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:46
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:46
 -keep class com.example.samplestickerapp.StickerContentProvider { <init>(...); }
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:30
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:30
 -keep class com.example.samplestickerapp.StickerPackDetailsActivity { <init>(...); }
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:37
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:37
 -keep class com.example.samplestickerapp.StickerPackInfoActivity { <init>(...); }
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:27
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:27
 -keep class com.example.samplestickerapp.StickerPackListActivity { <init>(...); }
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\sticker_packs_list_item.xml:2
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\sticker_pack_details.xml:11
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\activity_sticker_pack_list.xml:2
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\sticker_packs_list_item.xml:2
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\sticker_pack_details.xml:11
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\activity_sticker_pack_list.xml:2
 -keep class android.support.constraint.ConstraintLayout { <init>(...); }
 
 # Referenced at C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\bdae97405255bcaac296c1f843dd1578\res\layout\design_bottom_navigation_item.xml:27
@@ -88,7 +88,7 @@
 # Referenced at C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\res\layout\abc_dialog_title_material.xml:22
 -keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
 
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\activity_sticker_pack_list.xml:16
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\activity_sticker_pack_list.xml:16
 -keep class android.support.v7.widget.RecyclerView { <init>(...); }
 
 # Referenced at C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\res\layout\abc_search_view.xml:75
@@ -106,10 +106,10 @@
 # Referenced at C:\Users\romaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ae31c5b0d0c0645615878835fc7b37ac\res\layout\abc_alert_dialog_button_bar_material.xml:43
 -keep class android.widget.Space { <init>(...); }
 
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\sticker_pack_details.xml:76
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\sticker_pack_details.xml:76
 -keep class com.example.samplestickerapp.BottomFadingRecyclerView { <init>(...); }
 
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\sticker_pack_list_item_image.xml:2
-# Referenced at C:\Users\romaa\Desktop\stickers\SampleAndroid\app\src\main\res\layout\sticker_image.xml:8
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\sticker_pack_list_item_image.xml:2
+# Referenced at C:\Users\romaa\Desktop\GazalStickerApp\app\src\main\res\layout\sticker_image.xml:8
 -keep class com.facebook.drawee.view.SimpleDraweeView { <init>(...); }
 
