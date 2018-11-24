@@ -7,5 +7,5 @@ Play Store Like: [here](https://play.google.com/store/apps/details?id=com.alif.k
 
 For installing download apk: [here](https://github.com/romaan7/GazalStickerApp/blob/master/release/app-release.apk?raw=true "Download APK")
 
-![alt text](Screenshot.jpeg?raw=true "SCREEN")
+![alt text](./screenshots/chat.webp?raw=true "SCREEN") ![alt text](./screenshots/sticker1.webp?raw=true "SCREEN")
 
