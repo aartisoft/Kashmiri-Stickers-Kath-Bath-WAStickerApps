@@ -1,0 +1,15 @@
+{
+      "identifier": "sarcasicsm",
+      "name": "Sarcasicsm",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "sarcasicsm tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "malaal chui_.webp"},
+      {"image_file": "shode kal.webp"},
+      {"image_file": "tse ma chui keena.webp"}
+                  ]
+}

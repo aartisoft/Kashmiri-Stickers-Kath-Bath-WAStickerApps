@@ -1,0 +1,19 @@
+{
+      "identifier": "lovliness",
+      "name": "Loveliness",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "loveliness tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "beni chakh na.webp"},
+      {"image_file": "boi chukh na.webp"},
+      {"image_file": "kal tsot.webp"},
+      {"image_file": "Lagyi balaii.webp"},
+      {"image_file": "Phatwangun.webp"},
+      {"image_file": "wala naalmout ha karo.webp"},
+      {"image_file": "zuw myoon.webp"}
+                  ]
+}

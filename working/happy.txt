@@ -1,0 +1,21 @@
+{
+      "identifier": "happy",
+      "name": "Happy",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "happiness tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "ahansa aa.webp"},
+      {"image_file": "aish karith.webp"},
+      {"image_file": "hahahha.webp"},
+      {"image_file": "hahahhaahaha.webp"},
+      {"image_file": "hay mokleya imtihan.webp"},
+      {"image_file": "mazze balaaii.webp"},
+      {"image_file": "shukur khudaayas kun.webp"},
+      {"image_file": "waryah asal.webp"},
+      {"image_file": "zabbardast.webp"}
+                  ]
+}

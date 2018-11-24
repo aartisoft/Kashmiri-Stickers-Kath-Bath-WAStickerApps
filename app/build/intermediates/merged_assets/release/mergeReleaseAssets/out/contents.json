@@ -1,219 +1,172 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.alif.kathbathapp",
   "ios_app_store_link": "",
   "sticker_packs": [
-    {
-      "identifier": "1",
-      "name": "Kath Bath 1 Stickers",
+ {
+      "identifier": "angry",
+      "name": "Angry",
       "publisher": "Ghazal Qadri (Alif)",
-      "tray_image_file": "kathbath.png",
+      "tray_image_file": "angry tray icon.webp",
       "publisher_email":"emailghazalqadri@gmail.com",
       "publisher_website": "https://www.instagram.com/____alif/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-                             {
-          "image_file": "aaz ha chu hartal.webp"
-        },
-               {
-          "image_file": "adsa.webp"
-        },
-               {
-          "image_file": "ahansa aa.webp"
-        },
-               {
-          "image_file": "aish karith.webp"
-        },
-               {
-          "image_file": "allleeyyy.webp"
-        },
-               {
-          "image_file": "batte khewta.webp"
-        },
-               {
-          "image_file": "beh wan khudaayas sawal.webp"
-        },
-               {
-          "image_file": "beni chakh na.webp"
-        },
-               {
-          "image_file": "boi chukh na.webp"
-        },
-               {
-          "image_file": "dafa gus.webp"
-        },
-               {
-          "image_file": "di sa maafi.webp"
-        },
-               {
-          "image_file": "gow aagaadi.webp"
-        },
-               {
-          "image_file": "gow kyuhu myaani haq.webp"
-        },
-               {
-          "image_file": "hahahha.webp"
-        },
-               {
-          "image_file": "hahahhaahaha.webp"
-        },
-               {
-          "image_file": "halaa.webp"
-        },
-               {
-          "image_file": "hapath yaaraz.webp"
-        },
-               {
-          "image_file": "happy burday chi.webp"
-        },
-               {
-          "image_file": "hay mokleya imtihan.webp"
-        },
-               {
-          "image_file": "hye hye.webp"
-        },
-               {
-          "image_file": "jaan goyi.webp"
-        },
-               {
-          "image_file": "kaek.webp"
-        },
-               {
-          "image_file": "kal tsot.webp"
-        },
-               {
-          "image_file": "kar tsop.webp"
-        },
-               {
-          "image_file": "katyu chukh.webp"
-        },
-               {
-          "image_file": "khaari zaleel.webp"
-        },
-               {
-          "image_file": "khaari zaleli.webp"
-        },
-               {
-          "image_file": "khash kadai.webp"
-        }
-        ]},
-      {
-      "identifier": "2",
-      "name": "Kath Bath 2 Stickers",
+      {"image_file": "chapaath lagayi_.webp"},
+      {"image_file": "dafa gus.webp"},
+      {"image_file": "di sa maafi.webp"},
+      {"image_file": "gow kyuhu myaani haq.webp"},
+      {"image_file": "kar tsop.webp"},
+      {"image_file": "khaari zaleel.webp"},
+      {"image_file": "khaari zaleli.webp"},
+      {"image_file": "khakhar dimai.webp"},
+      {"image_file": "khash kadai.webp"},
+      {"image_file": "kusu taawan chu.webp"},
+      {"image_file": "myaada kharab chui.webp"},
+      {"image_file": "peyi kangar.webp"},
+      {"image_file": "peyii kaanger.webp"},
+      {"image_file": "sirf kar hak darbadari.webp"},
+      {"image_file": "thaw wani ma kad kaaed.webp"}
+                  ]
+  },
+  {
+      "identifier": "courtesy",
+      "name": "Courtesy",
       "publisher": "Ghazal Qadri (Alif)",
-      "tray_image_file": "kathbath.png",
+      "tray_image_file": "courtesy tray icon.webp",
       "publisher_email":"emailghazalqadri@gmail.com",
       "publisher_website": "https://www.instagram.com/____alif/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-                    {
-          "image_file": "Khoji thool.webp"
-        },
-               {
-          "image_file": "khoshketh.webp"
-        },
-               {
-          "image_file": "kothen aamus aech.webp"
-        },
-               {
-          "image_file": "kusu taawan chu.webp"
-        },
-               {
-          "image_file": "kyah chukh wanaan.webp"
-        },
-               {
-          "image_file": "kyah daleel.webp"
-        },
-               {
-          "image_file": "kyah goum.webp"
-        },
-               {
-          "image_file": "Lagyi balaii.webp"
-        },
-               {
-          "image_file": "loal ha chu aamut.webp"
-        },
-               {
-          "image_file": "mazze balaaii.webp"
-        },
-               {
-          "image_file": "myaada kharab chui.webp"
-        },
-               {
-          "image_file": "na sa na.webp"
-        },
-               {
-          "image_file": "naer yapear.webp"
-        },
-               {
-          "image_file": "nakhan khutmut.webp"
-        },
-               {
-          "image_file": "pawar guw.webp"
-        },
-               {
-          "image_file": "peyi kangar.webp"
-        },
-               {
-          "image_file": "peyii kaanger.webp"
-        },
-               {
-          "image_file": "Phatwangun.webp"
-        },
-               {
-          "image_file": "shode kal.webp"
-        },
-               {
-          "image_file": "shukriya.webp"
-        },
-               {
-          "image_file": "shukriyaaa.webp"
-        },
-              {
-          "image_file": "shukur khudaayas kun.webp"
-        },
-               {
-          "image_file": "sirf kar hak darbadari.webp"
-        },
-               {
-          "image_file": "talla kasam haw.webp"
-        },
-               {
-          "image_file": "thaw wani ma kad kaaed.webp"
-        },
-               {
-          "image_file": "trath ha.webp"
-        },
-               {
-          "image_file": "tse ma chui keena.webp"
-        },
-               {
-          "image_file": "wala naalmout ha karo.webp"
-        }]},
-      {
-      "identifier": "3",
-      "name": "Kath Bath 3 Stickers",
+      {"image_file": "adsa.webp"},
+      {"image_file": "batte khewta.webp"},
+      {"image_file": "happy burday chi.webp"},
+      {"image_file": "katyu chukh.webp"},
+      {"image_file": "khaeri cha_.webp"},
+      {"image_file": "na sa na.webp"},
+      {"image_file": "shukriya.webp"},
+      {"image_file": "shukriyaaa.webp"}
+                  ]
+ },
+ {
+      "identifier": "dirty",
+      "name": "Dirty",
       "publisher": "Ghazal Qadri (Alif)",
-      "tray_image_file": "kathbath.png",
+      "tray_image_file": "dirty tray icon.webp",
       "publisher_email":"emailghazalqadri@gmail.com",
       "publisher_website": "https://www.instagram.com/____alif/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
-                     {
-          "image_file": "waryah asal.webp"
-        },
-               {
-          "image_file": "woont kal.webp"
-        },
-               {
-          "image_file": "zabbardast.webp"
-        },
-               {
-          "image_file": "zuw myoon.webp"
-        }
-      ]
-    }
+      {"image_file": "beh wan khudaayas sawal.webp"},
+      {"image_file": "chaet chai_ 2.webp"},
+      {"image_file": "chaet chai_.webp"},
+      {"image_file": "di sa maafi.webp"},
+      {"image_file": "gow aagaadi.webp"},
+      {"image_file": "hapath yaaraz.webp"},
+      {"image_file": "jaan goyi.webp"},
+      {"image_file": "kaek.webp"},
+      {"image_file": "kal pyomut pathar.webp"},
+      {"image_file": "Khoji thool.webp"},
+      {"image_file": "khoshketh.webp"},
+      {"image_file": "kothen aamus aech.webp"},
+      {"image_file": "naer yapear.webp"},
+      {"image_file": "nakhan khutmut.webp"},
+      {"image_file": "woont kal.webp"}
+                  ]
+ },
+ {
+      "identifier": "exclamatory",
+      "name": "Exclamatory",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "surprise tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "allleeyyy.webp"},
+      {"image_file": "halaa.webp"},
+      {"image_file": "hye hye.webp"},
+      {"image_file": "kalkharab.webp"},
+      {"image_file": "kyah chukh wanaan.webp"},
+      {"image_file": "kyah daleel.webp"},
+      {"image_file": "talla kasam haw.webp"},
+      {"image_file": "trath ha.webp"},
+      {"image_file": "wallah_.webp"}
+                   ]
+ },
+ {
+      "identifier": "happy",
+      "name": "Happy",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "happiness tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "ahansa aa.webp"},
+      {"image_file": "aish karith.webp"},
+      {"image_file": "hahahha.webp"},
+      {"image_file": "hahahhaahaha.webp"},
+      {"image_file": "hay mokleya imtihan.webp"},
+      {"image_file": "mazze balaaii.webp"},
+      {"image_file": "shukur khudaayas kun.webp"},
+      {"image_file": "waryah asal.webp"},
+      {"image_file": "zabbardast.webp"}
+                  ]
+ },
+ {
+      "identifier": "lovliness",
+      "name": "Loveliness",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "loveliness tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "beni chakh na.webp"},
+      {"image_file": "boi chukh na.webp"},
+      {"image_file": "kal tsot.webp"},
+      {"image_file": "Lagyi balaii.webp"},
+      {"image_file": "Phatwangun.webp"},
+      {"image_file": "wala naalmout ha karo.webp"},
+      {"image_file": "zuw myoon.webp"}
+                  ]
+ },
+ {
+      "identifier": "sad",
+      "name": "Sadness",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "sad.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "aaz ha chu hartal.webp"},
+      {"image_file": "kyah goum.webp"},
+      {"image_file": "loal ha chu aamut.webp"},
+      {"image_file": "pawar guw.webp"}
+                  ]
+ },
+ {
+      "identifier": "sarcasm",
+      "name": "Sarcasicsm",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "sarcasicsm tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "malaal chui.webp"},
+      {"image_file": "shode kal.webp"},
+      {"image_file": "tse ma chui keena.webp"}
+                  ]
+ }
   ]
 }

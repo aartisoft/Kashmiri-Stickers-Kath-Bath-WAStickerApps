@@ -1,0 +1,20 @@
+{
+      "identifier": "courtesy",
+      "name": "Courtesy",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "courtesy tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "adsa.webp"},
+      {"image_file": "batte khewta.webp"},
+      {"image_file": "happy burday chi.webp"},
+      {"image_file": "katyu chukh.webp"},
+      {"image_file": "khaeri cha_.webp"},
+      {"image_file": "na sa na.webp"},
+      {"image_file": "shukriya.webp"},
+      {"image_file": "shukriyaaa.webp"}
+                  ]
+}

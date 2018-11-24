@@ -1,0 +1,21 @@
+{
+      "identifier": "exclamatory",
+      "name": "Exclamatory",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "surprise tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "allleeyyy.webp"},
+      {"image_file": "halaa.webp"},
+      {"image_file": "hye hye.webp"},
+      {"image_file": "kalkharab.webp"},
+      {"image_file": "kyah chukh wanaan.webp"},
+      {"image_file": "kyah daleel.webp"},
+      {"image_file": "talla kasam haw.webp"},
+      {"image_file": "trath ha.webp"},
+      {"image_file": "wallah_.webp"}
+                   ]
+}

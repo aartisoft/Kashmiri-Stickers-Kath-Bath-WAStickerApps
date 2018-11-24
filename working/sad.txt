@@ -1,0 +1,16 @@
+{
+      "identifier": "sad",
+      "name": "Sadness",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "sad.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "aaz ha chu hartal.webp"},
+      {"image_file": "kyah goum.webp"},
+      {"image_file": "loal ha chu aamut.webp"},
+      {"image_file": "pawar guw.webp"},
+                  ]
+}

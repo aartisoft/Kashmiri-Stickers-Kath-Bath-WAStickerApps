@@ -1,0 +1,27 @@
+{
+      "identifier": "dirty",
+      "name": "Dirty",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "dirty tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "beh wan khudaayas sawal.webp"},
+      {"image_file": "chaet chai_ 2.webp"},
+      {"image_file": "chaet chai_.webp"},
+      {"image_file": "di sa maafi.webp"},
+      {"image_file": "gow aagaadi.webp"},
+      {"image_file": "hapath yaaraz.webp"},
+      {"image_file": "jaan goyi.webp"},
+      {"image_file": "kaek.webp"},
+      {"image_file": "kal pyomut pathar.webp"},
+      {"image_file": "Khoji thool.webp"},
+      {"image_file": "khoshketh.webp"},
+      {"image_file": "kothen aamus aech.webp"},
+      {"image_file": "naer yapear.webp"},
+      {"image_file": "nakhan khutmut.webp"},
+      {"image_file": "woont kal.webp"}
+                  ]
+}

@@ -2332,8 +2332,8 @@
     <string name="fab_transformation_scrim_behavior" translatable="false">android.support.design.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">android.support.design.transformation.FabTransformationSheetBehavior</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="info_screen_tray_icon">"Kath Bath" is an application I have created to make daily conversations more fun and easy. The stickers are a collection of typical Kashmiri expressions and the dialogues used in everyday conversations!
-Thankful to my friends -  Romaan and Abid who helped me bring this application into existence!
+    <string name="info_screen_tray_icon">"Kath Bath" is an application I have created to make daily conversations more fun and easy. \nThe stickers are a collection of typical Kashmiri expressions and the dialogues used in everyday conversations!
+\n\nThankful to my friends -  Romaan and Abid who helped me bring this application into existence!
 Cheers!
 </string>
     <string name="info_send_email_to_prompt">Send email with</string>

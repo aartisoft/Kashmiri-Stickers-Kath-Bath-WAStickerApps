@@ -1,0 +1,27 @@
+{
+"identifier": "angry",
+      "name": "Angry",
+      "publisher": "Ghazal Qadri (Alif)",
+      "tray_image_file": "angry tray icon.webp",
+      "publisher_email":"emailghazalqadri@gmail.com",
+      "publisher_website": "https://www.instagram.com/____alif/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+      {"image_file": "chapaath lagayi_.webp"},
+      {"image_file": "dafa gus.webp"},
+      {"image_file": "di sa maafi.webp"},
+      {"image_file": "gow kyuhu myaani haq.webp"},
+      {"image_file": "kar tsop.webp"},
+      {"image_file": "khaari zaleel.webp"},
+      {"image_file": "khaari zaleli.webp"},
+      {"image_file": "khakhar dimai.webp"},
+      {"image_file": "khash kadai.webp"},
+      {"image_file": "kusu taawan chu.webp"},
+      {"image_file": "myaada kharab chui.webp"},
+      {"image_file": "peyi kangar.webp"},
+      {"image_file": "peyii kaanger.webp"},
+      {"image_file": "sirf kar hak darbadari.webp"},
+      {"image_file": "thaw wani ma kad kaaed.webp"}
+                  ]
+}
