@@ -13,6 +13,7 @@
       "license_agreement_website": "",
       "stickers": [
       {"image_file": "chapaath lagayi_.webp"},
+      {"image_file": "dum kar.webp"},
       {"image_file": "dafa gus.webp"},
       {"image_file": "di sa maafi.webp"},
       {"image_file": "gow kyuhu myaani haq.webp"},
@@ -60,6 +61,7 @@
       "license_agreement_website": "",
       "stickers": [
       {"image_file": "beh wan khudaayas sawal.webp"},
+      {"image_file": "raantas.webp"},
       {"image_file": "chaet chai_ 2.webp"},
       {"image_file": "chaet chai_.webp"},
       {"image_file": "di sa maafi.webp"},
@@ -155,7 +157,7 @@
  },
  {
       "identifier": "sarcasm",
-      "name": "Sarcasicsm",
+      "name": "Sarcasm",
       "publisher": "Ghazal Qadri (Alif)",
       "tray_image_file": "sarcasicsm tray icon.webp",
       "publisher_email":"emailghazalqadri@gmail.com",
